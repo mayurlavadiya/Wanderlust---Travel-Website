@@ -537,7 +537,7 @@ body.nav-active{overflow: hidden;}
 
 .desti-card .card-title:is(:hover, :focus-visible){color: var(--text-majorelle-blue);}
 
-.desti-card:is(.card-rating, .span){
+.desti-card :is(.card-rating, .span){
   display: flex;
   align-items: center;
 }
@@ -548,6 +548,8 @@ body.nav-active{overflow: hidden;}
 }
 
 .desti-card .card-rating .span{
+  display: flex;
+  align-items: center;
   background-color: var(--bg-sunglow-alpha-10);
   gap: 5px;
   padding: 4px 12px;
