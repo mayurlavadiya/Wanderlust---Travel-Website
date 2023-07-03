@@ -51,7 +51,6 @@ WANDERLUST is a travel website designed using HTML, CSS, and JavaScript. Its pri
 ###   By combining a user-friendly layout, a comprehensive tour guide, round-the-clock support, and a platform to share traveler experiences, WANDERLUST aims to empower travelers and make their journey memorable.
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![image](https://github.com/mayurlavadiya/Wanderlust---Travel-Website/assets/100776003/5584563b-c4d4-45f9-a2ca-d1f014f07522)
 ![image](https://github.com/mayurlavadiya/Wanderlust---Travel-Website/assets/100776003/e851744e-be5a-4881-9ba1-6e9b00792904)
 ![image](https://github.com/mayurlavadiya/Wanderlust---Travel-Website/assets/100776003/359a3738-fade-42f5-bc74-3ec456d58475)
