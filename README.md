@@ -2,32 +2,6 @@
 
 ![b](https://github.com/mayurlavadiya/Wanderlust---Travel-Website/assets/100776003/8d316966-6439-46fc-b4ea-4f4b5073c840)
 
-
-# Wanderlust - Travel Website
-
-WANDERLUST is a travel website designed using HTML, CSS, and JavaScript. Its primary goal is to provide a user-friendly layout that is easy to understand and navigate, ensuring a seamless experience for travelers seeking their next adventure.
-
-# Features:
-
-* Easy Layout: 
-        
-    The website boasts a clean and intuitive layout, making it effortless for users to explore the available options and find their desired travel destinations.
-
-* Tour Guide: 
-
-    WANDERLUST offers a comprehensive tour guide section where travelers can access detailed information about various destinations. From popular attractions and landmarks to hidden gems and local recommendations, the tour guide provides a wealth of knowledge to enhance the travel experience.
-
-* 24/7 Support: 
-
-    Understanding the importance of reliable assistance, WANDERLUST ensures 24/7 customer support. Travelers can reach out for any queries, concerns, or assistance during their journey, ensuring a stress-free experience.
-
-*   Traveler Experience: 
-
-    The website features a dedicated section where travelers can share their experiences, stories, and recommendations. This enables users to gain insights from other like-minded individuals who have explored different destinations, providing valuable information and inspiration for future trips.
-
-#   By combining a user-friendly layout, a comprehensive tour guide, round-the-clock support, and a platform to share traveler experiences, WANDERLUST aims to empower travelers and make their journey memorable.
-# Wanderlust - Travel Website
-
 WANDERLUST is a travel website designed using HTML, CSS, and JavaScript. Its primary goal is to provide a user-friendly layout that is easy to understand and navigate, ensuring a seamless experience for travelers seeking their next adventure.
 
 # Features:
