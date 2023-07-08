@@ -37,7 +37,9 @@ Hi 👋, I'm a Dynamic Web Developer Looking For New Opportunities To Challenge 
 
 🌱 I’m currently learning PHP, LARAVEL, NODEJS, REACTJS.
 
-👯 I’m looking to collaborate on cool project.
+👯 I’m looking to collaborate on cool project. 
+
+✨🚀 Learning new technology.
 
 
 ## 🔗 Links
